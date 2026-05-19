@@ -1,5 +1,5 @@
 🚀 3-Tier Kubernetes Application (EKS)
-A fully working 3-tier web application deployed on AWS EKS using Kubernetes,demonstrating real-world DevOps practices including container orchestration, networking, and persistent storage.
+Built and deployed a production-style 3-tier application on AWS EKS using Kubernetes,demonstrating real-world DevOps practices including container orchestration, networking, and persistent storage.
 
 🧠 Overview
 This project is a complete distributed system consisting of:
@@ -70,5 +70,9 @@ NGINX-based controller exposing the application via AWS LoadBalancer
 MongoDB is fully integrated and used for persistent storage of application data including todos and user tasks.
 
 <img width="1867" height="509" alt="Screenshot 2026-05-06 211716" src="https://github.com/user-attachments/assets/55e3c665-383a-4722-8c80-a95f7bb9e469" />
+
+Application running
+
+<img width="1297" height="301" alt="Screenshot 2026-05-06 211616" src="https://github.com/user-attachments/assets/68430eab-3f98-4f37-9ccd-51dcda26ddb9" />
 
 
