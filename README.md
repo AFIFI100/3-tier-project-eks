@@ -73,6 +73,6 @@ MongoDB is fully integrated and used for persistent storage of application data 
 
 Application running
 
-<img width="1297" height="301" alt="Screenshot 2026-05-06 211616" src="https://github.com/user-attachments/assets/68430eab-3f98-4f37-9ccd-51dcda26ddb9" />
+<img width="2170" height="725" alt="ChatGPT Image 19 مايو 2026، 09_12_24 ص" src="https://github.com/user-attachments/assets/fbff9d16-8398-4fe8-b9bc-9f1c7bf5ab57" />
 
 
